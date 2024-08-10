@@ -1,0 +1,69 @@
+{
+  "companies": [
+    {
+      "name": "Company A",
+      "data": {
+        "2023": {
+          "sales": 500000,
+          "target": 550000
+        },
+        "2024": {
+          "sales": 600000,
+          "target": 650000
+        }
+      }
+    },
+    {
+      "name": "Company B",
+      "data": {
+        "2023": {
+          "sales": 750000,
+          "target": 800000
+        },
+        "2024": {
+          "sales": 820000,
+          "target": 880000
+        }
+      }
+    },
+    {
+      "name": "Company C",
+      "data": {
+        "2023": {
+          "sales": 400000,
+          "target": 450000
+        },
+        "2024": {
+          "sales": 470000,
+          "target": 500000
+        }
+      }
+    },
+    {
+      "name": "Company D",
+      "data": {
+        "2023": {
+          "sales": 900000,
+          "target": 950000
+        },
+        "2024": {
+          "sales": 980000,
+          "target": 1050000
+        }
+      }
+    },
+    {
+      "name": "Company E",
+      "data": {
+        "2023": {
+          "sales": 600000,
+          "target": 650000
+        },
+        "2024": {
+          "sales": 670000,
+          "target": 720000
+        }
+      }
+    }
+  ]
+}
