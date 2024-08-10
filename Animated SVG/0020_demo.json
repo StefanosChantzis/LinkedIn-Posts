@@ -1,0 +1,39 @@
+{
+  "companies": [
+    {
+      "year": 2023,
+      "company": "Company A",
+      "sales": 500000,
+      "target": 550000
+    },
+    {
+      "year": 2024,
+      "company": "Company A",
+      "sales": 600000,
+      "target": 650000
+    },
+    {
+      "year": 2023,
+      "company": "Company B",
+      "sales": 700000,
+      "target": 750000
+    },
+    {
+      "year": 2024,
+      "company": "Company B",
+      "sales": 780000,
+      "target": 800000
+    },{
+      "year": 2023,
+      "company": "Company C",
+      "sales": 800000,
+      "target": 790000
+    },
+    {
+      "year": 2024,
+      "company": "Company C",
+      "sales": 780000,
+      "target": 750000
+    }
+  ]
+}
