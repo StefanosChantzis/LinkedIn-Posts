@@ -1,6 +1,0 @@
-For the External Tool to be available in your Power BI Desktop, you need to:
-	1. create this directory and add the content of the .zip (FormatNow PBI Tool.zip)
-	here -> C:\\Program Files (x86)\FormatNow PBI Tool\
-	2. you must move the formatnowapp.pbitool.json 
-	here -> C:\Program Files (x86)\Common Files\Microsoft Shared\Power BI Desktop\External Tools
-
