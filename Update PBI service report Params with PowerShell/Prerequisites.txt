@@ -1,0 +1,21 @@
+Prerequisites:
+
+
+Register an Azure AD Application:
+
+- Obtain the Tenant ID and Client ID.
+- Generate a client secret if necessary.
+
+Assign API Permissions:
+
+- Grant the app appropriate permissions to the Power BI API.
+- Grant admin consent for the permissions.
+
+Configure Power BI Settings:
+
+- Enable service principal access in the Power BI Admin Portal if using service principal authentication.
+- Ensure the app or user has the necessary workspace and dataset permissions.
+
+Key Notes:
+Pro License Compatibility: Yes, this API approach works with a Pro license, provided you authenticate as a user with appropriate access.
+Delegated Permissions: Since there’s no Premium Capacity, you’ll need to use delegated permissions (authenticate as a user) rather than service principal (application permissions).
