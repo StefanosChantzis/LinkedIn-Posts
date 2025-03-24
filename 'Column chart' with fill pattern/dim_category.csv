@@ -1,0 +1,11 @@
+Category,Sub Category,Category id,Sub Category id,Row id,Color Category
+Cat A,Sub A1,1,1,11,#58508d
+Cat A,Sub A2,1,2,12,#58508d
+Cat A,Sub A3,1,3,13,#58508d
+Cat B,Sub B1,2,1,21,#bc5090
+Cat B,Sub B2,2,2,22,#bc5090
+Cat C,Sub C1,3,1,31,#ff6361
+Cat C,Sub C2,3,2,32,#ff6361
+Cat C,Sub C3,3,3,33,#ff6361
+Cat C,Sub C4,3,4,34,#ff6361
+Cat D,Sub D1,4,1,41,#ffa600
