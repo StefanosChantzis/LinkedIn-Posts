@@ -1,0 +1,10 @@
+Account ID,Account,Sub Account ID,Sub Account,Weight
+1,Revenue,0,Product A,1
+1,Revenue,1,Product B,1
+1,Revenue,2,Services,1
+2,COGs,3,Cost of Goods Sold,-1
+3,Gross Profit,4,Gross Profit,0
+4,OPEX,5,Sales & Marketing,-1
+4,OPEX,6,R&D,-1
+4,OPEX,7,G&A,-1
+5,Operating Profit,8,Operating Profit,0
